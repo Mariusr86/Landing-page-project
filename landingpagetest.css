@@ -1,0 +1,34 @@
+.purplebackground {
+	background-color: purple;
+	border-width: medium;
+	border-color: black;
+	background-clip: border-box;
+
+}
+.backimage {
+	position: absolute;
+	width: 400px;
+	height: 400px;
+}
+
+a:hover{ 
+  text-decoration: underline;
+  filter: brightness(150%);
+  filter: drop-shadow(8px 8px 10px white);
+  color: yellow;
+}
+  
+#nav-bar{
+	text-align: center;
+}
+.free {
+	color: purple;
+}
+.free:hover {
+	background-color: yellow;
+	color: purple;
+}
+.trusted {
+	background-color: white;
+	text-align: center;
+}
